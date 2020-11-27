@@ -8,3 +8,12 @@ npm-debug.log
 .jshintrc
 .DS_Store
 package-lock.json
+
+# vscode specific
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
